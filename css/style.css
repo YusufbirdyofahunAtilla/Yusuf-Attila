@@ -1,0 +1,101 @@
+body{
+  margin:0;
+  background-color: black;
+  font-family: garamond;
+}
+
+header{
+  background-color: black;
+  padding: 30px;
+}
+
+article, nav{
+  width: 100%;
+  max-width: 1175px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+nav a{
+  color: skyblue
+}
+
+nav a:hover, .active{
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+nav h1{
+  float: left;
+  margin: 0;
+}
+
+nav h1 a{
+  letter-spacing: 7.5px;
+  padding: 20px 25px;
+  text-decoration: none;
+  border-right: 1px solid skyblue;
+}
+
+nav ul{
+  list-style: none;
+  float:left;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li{
+  float: left;
+  margin: 5px 15px;
+  padding: 0px;
+}
+
+nav ul li a{
+  text-decoration: none;
+  font-size: 17.5px;
+  font-weight: lighter;
+}
+
+article{
+  min-height: 75vh;
+  text-align: center;
+}
+
+article h1{
+  margin: 25px;
+  text-align: center;
+  font-size: 27.5px;
+  text-decoration: none;
+
+}
+
+section {
+  margin: 50px 25px 25px;
+  min-height: 300px;
+  border-bottom: 2 px solid
+}
+
+footer{
+  text-align: center;
+  margin-top: 50px;
+}
+
+.clear{
+  clear: left
+}
+
+.field-section button {
+  border: 3px solid #aaa;
+  font-size: 20px;
+  padding: 10px 15px;
+  background-color: #cccccc;
+  border-radius: 35px;
+}
+
+.field-section button:hover {
+  border-color:  #aaa
+}
+
+p {
+  color: whitesmoke;
+}
