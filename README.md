@@ -1,2 +1,3 @@
 # Yusuf-Attila
-This is a site I created to showcase my current and future goals!
+This is my first website I created to share my goals with you.
+[The link to my site] (https://birdyofahun.github.io/Yusuf-Attila)
